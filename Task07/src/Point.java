@@ -30,7 +30,14 @@ public class Point {
     public String toString() {
         return "("+ x + "," + y + ")";
     }
-    public int getXY(){
-        return x;
+
+    public int[] getXY(){
+        int arr = new arr[2];
+        arr[0] = x;
+        arr[1] = y;
+        return arr;
+    }
+    public void setXY(int x, int y){
+        thi
     }
 }
