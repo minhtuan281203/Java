@@ -19,9 +19,9 @@ public class MovablePoint implements Movable{
         y--;
     }
     public void moveLeft(){
-        x++;
+        x--;
     }
     public void moveRight(){
-        x--;
+        x++;
     }
 }
