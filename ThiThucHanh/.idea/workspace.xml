@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9f32d19a-77bf-494c-bd16-11cbe706072a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652258052549</updated>
-      <workItem from="1652258055033" duration="1033000" />
+      <workItem from="1652258055033" duration="1714000" />
+      <workItem from="1652393694914" duration="104000" />
     </task>
     <servers />
   </component>
@@ -56,7 +60,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Account.java</url>
-          <line>46</line>
+          <line>47</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
