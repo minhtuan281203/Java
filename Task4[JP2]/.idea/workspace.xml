@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8222d6c1-3380-4c79-94ca-fa13d7898747" name="Changes" comment="" />
+    <list default="true" id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29IK3Cfc7zb2s3NQQvkaumnYnWo" />
+  <component name="ProjectId" id="29XwAF5otIn6WBVEa5ucVFs56fY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -34,40 +34,38 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/Download App/mysql-connector-java-8.0.11.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration name="Ticket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ticket" />
-      <module name="Task2[JP2]" />
+    <configuration name="JdbcSelectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JdbcSelectTest" />
+      <module name="Task3[JP2]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ticket" />
+        <item itemvalue="Application.JdbcSelectTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8222d6c1-3380-4c79-94ca-fa13d7898747" name="Changes" comment="" />
-      <created>1652794958946</created>
+      <changelist id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
+      <created>1653272594343</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652794958946</updated>
-      <workItem from="1652794960251" duration="2259000" />
-      <workItem from="1652965044005" duration="1061000" />
-      <workItem from="1653272475725" duration="118000" />
+      <updated>1653272594343</updated>
+      <workItem from="1653272595614" duration="2658000" />
+      <workItem from="1653371133974" duration="232000" />
     </task>
     <servers />
   </component>
