@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
+    <list default="true" id="f498766d-7c59-4a79-abb5-4160038e4ee4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29XwAF5otIn6WBVEa5ucVFs56fY" />
+  <component name="ProjectId" id="29gGDUEK0abf6G5QTiNvwSUB8yv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -40,36 +40,40 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration name="JdbcSelectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdbcSelectTest" />
-      <module name="Task4[JP2]" />
+  <component name="RunManager" selected="Application.BT1Test">
+    <configuration name="BT1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT1Test" />
+      <module name="Task5[JP2]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcInsertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JdbcInsertTest" />
+      <module name="Task5[JP2]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JdbcSelectTest" />
+        <item itemvalue="Application.BT1Test" />
+        <item itemvalue="Application.JdbcInsertTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
-      <created>1653272594343</created>
+      <changelist id="f498766d-7c59-4a79-abb5-4160038e4ee4" name="Changes" comment="" />
+      <created>1653527196529</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653272594343</updated>
-      <workItem from="1653272595614" duration="2658000" />
-      <workItem from="1653371133974" duration="232000" />
-      <workItem from="1653485260471" duration="1093000" />
-      <workItem from="1653486463020" duration="622000" />
-      <workItem from="1653527153727" duration="42000" />
+      <updated>1653527196529</updated>
+      <workItem from="1653527197824" duration="4091000" />
     </task>
     <servers />
   </component>

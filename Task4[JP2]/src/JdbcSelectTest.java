@@ -3,7 +3,7 @@ import java.sql.*;
 public class JdbcSelectTest {
     public static void main(String[] args) {
         try (
-            Connection conn = DriverManager.getConnection("jdbc:mysql://locahost:3306/ebookshop?useSSL=false");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/ebookshop", "root", "");
             Statement stmt = conn.createStatement();
         ) {
             String strSelect = "select title, price, qty from books";
