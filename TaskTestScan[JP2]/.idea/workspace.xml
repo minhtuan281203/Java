@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
+    <list default="true" id="951416c9-4fdd-474b-b8f3-f308df7decb5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,10 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="29XwAF5otIn6WBVEa5ucVFs56fY" />
+  <component name="ProjectId" id="29sGPv18j7IoSLqTtjCzLhTrW61" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -37,59 +34,54 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/Download App/Java-sql/mysql-connector-java-8.0.11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.JdbcSelect2">
-    <configuration name="JdbcSelect2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdbcSelect2" />
-      <module name="Task4[JP2]" />
+  <component name="RunManager" selected="Application.UpdateByScanner">
+    <configuration name="UpdateByScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpdateByScanner" />
+      <module name="Task6[JP2]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcSelectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdbcSelectTest" />
-      <module name="Task4[JP2]" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Task6[JP2]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JdbcSelect2" />
-        <item itemvalue="Application.JdbcSelectTest" />
+        <item itemvalue="Application.UpdateByScanner" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
-      <created>1653272594343</created>
+      <changelist id="951416c9-4fdd-474b-b8f3-f308df7decb5" name="Changes" comment="" />
+      <created>1653894508544</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653272594343</updated>
-      <workItem from="1653272595614" duration="2658000" />
-      <workItem from="1653371133974" duration="232000" />
-      <workItem from="1653485260471" duration="1093000" />
-      <workItem from="1653486463020" duration="622000" />
-      <workItem from="1653527153727" duration="42000" />
-      <workItem from="1653633540741" duration="2111000" />
-      <workItem from="1653641176254" duration="3854000" />
-      <workItem from="1653889808947" duration="34000" />
-      <workItem from="1653893191786" duration="1050000" />
-      <workItem from="1653897496189" duration="283000" />
-      <workItem from="1653897889818" duration="47000" />
-      <workItem from="1653898010311" duration="10000" />
-      <workItem from="1653898787012" duration="17000" />
-      <workItem from="1653898868822" duration="12000" />
+      <updated>1653894508544</updated>
+      <workItem from="1653894509801" duration="817000" />
+      <workItem from="1653897939943" duration="11000" />
+      <workItem from="1653902551903" duration="55000" />
+      <workItem from="1653902625375" duration="134000" />
+      <workItem from="1653902831819" duration="2610000" />
+      <workItem from="1653905607197" duration="469000" />
+      <workItem from="1653978792907" duration="714000" />
+      <workItem from="1653980753211" duration="265000" />
+      <workItem from="1653981278386" duration="14000" />
     </task>
     <servers />
   </component>

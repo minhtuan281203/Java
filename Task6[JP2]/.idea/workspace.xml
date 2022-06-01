@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
+    <list default="true" id="1568062e-3bb5-40b5-bfdb-676cec8950f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +24,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
-  <component name="ProjectId" id="29XwAF5otIn6WBVEa5ucVFs56fY" />
+  <component name="ProjectId" id="29v4LpPifHWzr1YAwHLnAgVjj9T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -43,53 +43,69 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.JdbcSelect2">
-    <configuration name="JdbcSelect2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdbcSelect2" />
-      <module name="Task4[JP2]" />
+  <component name="RunManager" selected="Application.BatchProcessing">
+    <configuration name="BatchProcessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BatchProcessing" />
+      <module name="Task6[JP2]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcSelectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdbcSelectTest" />
-      <module name="Task4[JP2]" />
+    <configuration name="ComitRollback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComitRollback" />
+      <module name="Task6[JP2]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcCommitCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JdbcCommitCatch" />
+      <module name="Task6[JP2]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreparedStmt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreparedStmt" />
+      <module name="Task6[JP2]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RsetMetaData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RsetMetaData" />
+      <module name="Task6[JP2]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JdbcSelect2" />
-        <item itemvalue="Application.JdbcSelectTest" />
+        <item itemvalue="Application.BatchProcessing" />
+        <item itemvalue="Application.RsetMetaData" />
+        <item itemvalue="Application.PreparedStmt" />
+        <item itemvalue="Application.ComitRollback" />
+        <item itemvalue="Application.JdbcCommitCatch" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6be6bfd5-fc2c-47ff-abd1-a99160392a1c" name="Changes" comment="" />
-      <created>1653272594343</created>
+      <changelist id="1568062e-3bb5-40b5-bfdb-676cec8950f7" name="Changes" comment="" />
+      <created>1653980175036</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653272594343</updated>
-      <workItem from="1653272595614" duration="2658000" />
-      <workItem from="1653371133974" duration="232000" />
-      <workItem from="1653485260471" duration="1093000" />
-      <workItem from="1653486463020" duration="622000" />
-      <workItem from="1653527153727" duration="42000" />
-      <workItem from="1653633540741" duration="2111000" />
-      <workItem from="1653641176254" duration="3854000" />
-      <workItem from="1653889808947" duration="34000" />
-      <workItem from="1653893191786" duration="1050000" />
-      <workItem from="1653897496189" duration="283000" />
-      <workItem from="1653897889818" duration="47000" />
-      <workItem from="1653898010311" duration="10000" />
-      <workItem from="1653898787012" duration="17000" />
-      <workItem from="1653898868822" duration="12000" />
+      <updated>1653980175036</updated>
+      <workItem from="1653980177186" duration="568000" />
+      <workItem from="1653981022844" duration="251000" />
+      <workItem from="1653981295205" duration="4040000" />
+      <workItem from="1653986439011" duration="3745000" />
+      <workItem from="1654012599004" duration="598000" />
+      <workItem from="1654065511496" duration="299000" />
     </task>
     <servers />
   </component>
